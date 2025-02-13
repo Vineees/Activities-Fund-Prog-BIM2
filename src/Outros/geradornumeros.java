@@ -1,3 +1,4 @@
+package Outros;
 import java.util.Random;
 
 public class geradornumeros {
